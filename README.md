@@ -40,3 +40,6 @@ This highlighted the importance of evaluating profitability and return rates alo
 ## Author
 Lilit Janoyan
 Financial & Data Analyst
+## Dashboard Preview
+
+![Sales Dashboard](sales-dashboard-dashboard.png)
